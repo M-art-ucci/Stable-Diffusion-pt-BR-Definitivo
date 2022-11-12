@@ -85,15 +85,15 @@
 ---
 
 
-### [Instalação local](https://github.com/M-art-ucci/Stable-Diffusion-pt-BR-Definitivo/edit/main/README.md#instala%C3%A7%C3%A3o-localno-seu-pc-gerar-imagem) </a> <sup>no seu PC</sup> ou [Usar em qualquer lugar</a> <sup> online em qualquer aparelho</sup>](https://github.com/M-art-ucci/Stable-Diffusion-pt-BR-Definitivo/edit/main/README.md#usar-em-qualquer-lugar--online-em-qualquer-aparelho)
+### [Instalação local](https://github.com/M-art-ucci/Stable-Diffusion-pt-BR-Definitivo#instala%C3%A7%C3%A3o-local-no-seu-pc) </a> <sup>no seu PC</sup> ou [Usar em qualquer lugar</a> <sup> online em qualquer aparelho</sup>](https://github.com/M-art-ucci/Stable-Diffusion-pt-BR-Definitivo#usar-em-qualquer-lugar--online-em-qualquer-aparelho)
 
 
 ---
-### [Índice de dúvidas e problemas frequentes](https://github.com/M-art-ucci/Stable-Diffusion-pt-BR-Definitivo/edit/main/README.md#%C3%ADndice-de-d%C3%BAvidas-e-problemas-frequentes-problema-1-----solu%C3%A7%C3%A3o-1----problema-2-----solu%C3%A7%C3%A3o-2----)
+### [Índice de dúvidas e problemas frequentes](https://github.com/M-art-ucci/Stable-Diffusion-pt-BR-Definitivo#%C3%ADndice-de-d%C3%BAvidas-e-perguntas-frequentes--problema-1-----solu%C3%A7%C3%A3o-1----problema-2-----solu%C3%A7%C3%A3o-2-----)
 ---
 ### Instalação local</a> <sup>no seu PC</sup>
 
-Vídeo no YouTube (publicado em 26 de set. de 2022 - Obs¹)
+![Vídeo publicado em](https://img.shields.io/badge/v%C3%ADdeo%20publicado%20em-26%2F09%2F22-lightgrey) - <a href="https://github.com/M-art-ucci/Stable-Diffusion-pt-BR-Definitivo#instala%C3%A7%C3%A3o-local-no-seu-pc:~:text=Obs%C2%B9%3A%20este%20guia%20sempre%20estar%C3%A1%20mais%20atualizado%20que%20os%20v%C3%ADdeos">Obs¹</a>
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=QiwRMlW4qMQ"
 target="_blank"><img src="https://github.com/M-art-ucci/Stable-Diffusion-pt-BR-Definitivo/blob/main/Assets/thumb%20video%201.png" 
@@ -113,9 +113,11 @@ alt="IMAGE ALT TEXT HERE" width="390" height="220" border="10" /></a>
    - como não-administrador, usuário.
 
 ---
+   
+   
 ### Usar em qualquer lugar </a> <sup>online em qualquer aparelho</sup>
 
-Vídeo no YouTube (publicado em 20 de out. de 2022 - Obs¹)
+![Vídeo publicado em](https://img.shields.io/badge/v%C3%ADdeo%20publicado%20em-26%2F10%2F22-lightgrey) - <a href="https://github.com/M-art-ucci/Stable-Diffusion-pt-BR-Definitivo#instala%C3%A7%C3%A3o-local-no-seu-pc:~:text=Obs%C2%B9%3A%20este%20guia%20sempre%20estar%C3%A1%20mais%20atualizado%20que%20os%20v%C3%ADdeos">Obs¹</a>
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=JQVvl6VZSXg"
 target="_blank"><img src="https://github.com/M-art-ucci/Stable-Diffusion-pt-BR-Definitivo/blob/main/Assets/sd%20em%20pt%20thumb.png" 
@@ -129,7 +131,7 @@ alt="IMAGE ALT TEXT HERE" width="390" height="220" border="10" /></a>
 ---
 
 <div>
- <h3><details closed><summary><b>Índice de dúvidas e perguntas frequentes</b></summary><blockquote>
+ <h3><details open><summary><b>Índice de dúvidas e perguntas frequentes</b></summary><blockquote>
   <details><summary>Problema 1</summary><blockquote>
      Solução 1
   </blockquote></details>
