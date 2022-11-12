@@ -21,6 +21,7 @@
 
 - [x] Criação do Repositório #001
 - [x] Criação do README.md
+- [ ] Guia com imagens no próprio README.md
 - [ ] [Todos os problemas estão resolvidos](https://github.com/M-art-ucci/Stable-Diffusion-pt-BR-Definitivo/issues)
   <br />
   <br />
