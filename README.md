@@ -21,7 +21,7 @@
 
 - [x] Soluções para tela preta
 - [ ] Opções para quem tem de 4GB a 6GB de VRAM
-- [ ] Imagens para soluções README.md
+- [ ] Passo a passo de instalação com imagens/gifs
 - [ ] [Todos os problemas estão resolvidos](https://github.com/M-art-ucci/Stable-Diffusion-pt-BR-Definitivo/issues)
   <br />
   <br />
