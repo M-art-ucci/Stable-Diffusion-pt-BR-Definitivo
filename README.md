@@ -132,7 +132,7 @@
 
 
 ---
-### [Índice de dúvidas e problemas frequentes](https://github.com/M-art-ucci/Stable-Diffusion-pt-BR-Definitivo#%C3%ADndice-de-d%C3%BAvidas-e-perguntas-frequentes--problema-1-----solu%C3%A7%C3%A3o-1----problema-2-----solu%C3%A7%C3%A3o-2-----)
+### [Índice de dúvidas e problemas frequentes](https://github.com/M-art-ucci/Stable-Diffusion-pt-BR-Definitivo#%C3%ADndice-de-d%C3%BAvidas-e-problemas-frequentes-tela-preta-ao-tentar-gerar-imagens---solu%C3%A7%C3%A3o-1-gpu-nvidia-geforce-gtx-1650-1660-e-1660-ti-abrir-o-webui-userbat-com-editor-de-texto-e-acrescentar-o-argumento---precision-full---no-half------tela-preta-ao-tentar-gerar-imagens-mesmo-ap%C3%B3s-solu%C3%A7%C3%A3o-1----1-se-houver-espa%C3%A7os-entre-os-nomes-de-cada-caminho-colocar---at%C3%A9-onde-est%C3%A1-o-webui-serbat----2-abrir-o-cmd-na-pasta-do-webui-seubat----3-atualizar-para-a-%C3%BAltima-vers%C3%A3o-digitando-git-pull----4-abrir-o-arquivo-webui-userbat-com-um-editor-de-texto----5-na-frente-de-set-commandline_args-acrescentar-o-argumento---precision-full---no-half---medvram---opt-split-attention------6-abaixo-da-linha-set-commandline_args-acrescentar-o-argumento-set-optimized_turbotrue--------problema-3-----solu%C3%A7%C3%A3o-3-----)
 ---
 ### Instalação local</a> <sup>no seu PC</sup>
 
