@@ -8,6 +8,8 @@
 <a href="https://tecnoblog.net/responde/como-usar-o-github-guia-para-iniciantes/">Como usar Github?</a>
 
 # Guia definitivo de instalação do Stable Diffusion
+  	
+  <a href="[b27da3676739813c35aa2d6aac4bd6d1326a2a7b](https://github.com/M-art-ucci/Stable-Diffusion-pt-BR-Definitivo/commit/b27da3676739813c35aa2d6aac4bd6d1326a2a7b)](https://img.shields.io/badge/%C3%BAltima%20modifica%C3%A7%C3%A3o-12%2F11%2F2022-green"><img src="https://img.shields.io/badge/%C3%BAltima%20modifica%C3%A7%C3%A3o-12%2F11%2F2022-green">
 
 ### Com [Interface do AUTOMATIC1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 <div align="left"> Localização oficial <a href="https://github.com/M-art-ucci">M-art-ucci</a>
@@ -18,7 +20,7 @@
 <div align="center">
 
 - [x] Criação do Repositório #001
-- [x] Criação do Readme.md
+- [x] Criação do README.md
 - [ ] [Todos os problemas estão resolvidos](https://github.com/M-art-ucci/Stable-Diffusion-pt-BR-Definitivo/issues)
   <br />
   <br />
@@ -45,7 +47,7 @@
 ---
 
  <div>
- <details open><summary><b>Pré-requisitos</b></summary><blockquote>
+ <h3><details open><summary><b>Pré-requisitos</b></summary><blockquote>
   <details><summary>Windows</summary><blockquote>
      <details><summary>Versões de Windows</summary><blockquote>
      Cada Versão
@@ -60,13 +62,9 @@
   </blockquote></details>
   </blockquote></details>
   <details closed><summary>Python 3.10.6</summary><blockquote>
-     <details><summary>Nvidia com mais de 6GB de VRAM</summary><blockquote>
-     Cada Placa
+     <a href="https://www.python.org/ftp/python/3.10.6/python-3.10.6-amd64.exe">Instalador (64-bit)</a>
   </blockquote></details>
-     <details closed><summary>Nvidia com 4GB a 6GB de VRAM</summary><blockquote>
-     Cada Placa
-  </blockquote></details>
-  </blockquote></details>
+ 
   <details closed><summary>Conta Huggingface</summary><blockquote>
      <a href="https://huggingface.co/">Huggingface.co</a> Não esqueça de confirmar o acesso ao termo no final da página!
      <blockquote>
@@ -87,13 +85,13 @@
 ---
 
 
-### <a href="https://github.com/reportbug">Instalação local</a> <sup>no seu PC</sup> ou <a href="https://github.com/reportbug">Usar em qualquer lugar</a> <sup> online em qualquer aparelho</sup>
+### [Instalação local](https://github.com/M-art-ucci/Stable-Diffusion-pt-BR-Definitivo/edit/main/README.md#instala%C3%A7%C3%A3o-localno-seu-pc-gerar-imagem) </a> <sup>no seu PC</sup> ou [Usar em qualquer lugar</a> <sup> online em qualquer aparelho</sup>](https://github.com/M-art-ucci/Stable-Diffusion-pt-BR-Definitivo/edit/main/README.md#usar-em-qualquer-lugar--online-em-qualquer-aparelho)
 
 
 ---
-### Índice de dúvidas e problemas frequentes (link para o heading)
+### [Índice de dúvidas e problemas frequentes](https://github.com/M-art-ucci/Stable-Diffusion-pt-BR-Definitivo/edit/main/README.md#%C3%ADndice-de-d%C3%BAvidas-e-problemas-frequentes-problema-1-----solu%C3%A7%C3%A3o-1----problema-2-----solu%C3%A7%C3%A3o-2----)
 ---
-### Instalação local(no seu PC) (gerar imagem)
+### Instalação local</a> <sup>no seu PC</sup>
 
 Vídeo no YouTube (publicado em 26 de set. de 2022 - Obs¹)
 
@@ -111,11 +109,11 @@ alt="IMAGE ALT TEXT HERE" width="390" height="220" border="10" /></a>
    - Ver dependências para onde baixar.
 5. Opcional Colocar o GFPGANv1.4.pth no diretório base, junto do webui.py
    - Ver dependências para onde baixar.
-   6. Rodar o webui-user.bat normalmente
-   -como não-administrador, usuário.
+6. Rodar o webui-user.bat normalmente
+   - como não-administrador, usuário.
 
 ---
-### Usar em qualquer lugar (online em qualquer aparelho) (gerar imagem)
+### Usar em qualquer lugar </a> <sup>online em qualquer aparelho</sup>
 
 Vídeo no YouTube (publicado em 20 de out. de 2022 - Obs¹)
 
@@ -129,18 +127,22 @@ alt="IMAGE ALT TEXT HERE" width="390" height="220" border="10" /></a>
 
 
 ---
-<details closed="closed">
-<summary><b>Índice de dúvidas e problemas frequentes</b></summary>
- <details closed><summary>Problema 1</summary><blockquote>
+
+<div>
+ <h3><details closed><summary><b>Índice de dúvidas e perguntas frequentes</b></summary><blockquote>
+  <details><summary>Problema 1</summary><blockquote>
      Solução 1
   </blockquote></details>
-  <details closed><summary>Problema 2</summary><blockquote>
+  <details><summary>Problema 2</summary><blockquote>
      Solução 2
+  
+  <blockquote>
+  
   </blockquote></details>
-  </blockquote></details>
-
-
-</details>
+      
+</blockquote></details>
+ </div>
+   
 
 ---
 
@@ -158,9 +160,22 @@ alt="IMAGE ALT TEXT HERE" width="390" height="220" border="10" /></a>
 
 ---
 
+<h3>Para usar depois</h3>
 
-Para usar depois:
-
+  Heading com summary
+<div>
+ <h3><details closed><summary><b>Título do heading</b></summary><blockquote>
+  <details><summary>Summary 1</summary><blockquote>
+     Lista 1
+  </blockquote></details>
+  <details><summary>Summary 2</summary><blockquote>
+     Lista 2 
+  <blockquote>  
+  </blockquote></details>
+      
+</blockquote></details>
+ </div>
+   
 Contorno de tabela
 
 <table>
