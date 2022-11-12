@@ -48,12 +48,16 @@
 ---
 
  <div>
- <h3><details open><summary><b>Pré-requisitos</b></summary><blockquote>
-  <details><summary>Windows</summary><blockquote>
-     <details><summary>Versões de Windows</summary><blockquote>
-     Cada Versão
-  </blockquote></details>
-  </blockquote></details>
+ <h3><details open><summary><b>Pré-requisitos</b></summary>
+     <blockquote><details><summary>
+     Windows ou Linux
+     </summary>
+        <blockquote>
+        Windows 10/11
+        </blockquote>
+        <blockquote>
+        Linux
+        </blockquote></details>
   <details closed><summary>Placas de vídeo</summary><blockquote>
      <details><summary>Nvidia com mais de 6GB de VRAM</summary><blockquote>
      Cada Placa
@@ -132,12 +136,38 @@ alt="IMAGE ALT TEXT HERE" width="390" height="220" border="10" /></a>
 ---
 
 <div>
- <h3><details open><summary><b>Índice de dúvidas e perguntas frequentes</b></summary><blockquote>
-  <details><summary>Problema 1</summary><blockquote>
-     Solução 1
+ <h3><details open><summary><b>Índice de dúvidas e problemas frequentes</b></summary>
+ <blockquote><details><summary>Tela preta ao tentar gerar imagens - solução 1</summary>
+ <blockquote><details><summary>GPU NVIDIA GeForce GTX 1650, 1660 e 1660 Ti</summary>
+ <blockquote>Abrir o webui-user.bat com editor de texto e acrescentar o argumento
+     
+        
+     --precision full --no-half
+     
+
   </blockquote></details>
-  <details><summary>Problema 2</summary><blockquote>
-     Solução 2
+  </blockquote></details>
+  
+  
+  <details><summary>Tela preta ao tentar gerar imagens mesmo após solução 1</summary>
+  <blockquote>
+  1. Se houver espaços entre os nomes de cada caminho, colocar "-" até onde está o webui-ser.bat
+  <blockquote></blockquote>
+  2. Abrir o CMD na pasta do webui-seu.bat
+  <blockquote></blockquote>
+  3. Atualizar para a última versão digitando "git pull"
+  <blockquote></blockquote>
+  4. Abrir o arquivo webui-user.bat com um editor de texto
+  <blockquote></blockquote>
+  5. Na frente de "set COMMANDLINE_ARGS=" acrescentar o argumento "--precision full --no-half --medvram --opt-split-attention"  
+  <blockquote></blockquote>
+  6. Abaixo da linha "set COMMANDLINE_ARGS=" acrescentar o argumento "set OPTIMIZED_TURBO=true"  
+  <blockquote></blockquote>
+  
+  </blockquote></details>
+    
+  <details><summary>Problema 3</summary><blockquote>
+     Solução 3
   
   <blockquote>
   
