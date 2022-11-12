@@ -19,9 +19,8 @@
 
 <div align="center">
 
-- [x] Criação do Repositório #001
-- [x] Criação do README.md
 - [x] Soluções para tela preta
+- [ ] Opções para quem tem de 4GB a 6GB de VRAM
 - [ ] Imagens para soluções README.md
 - [ ] [Todos os problemas estão resolvidos](https://github.com/M-art-ucci/Stable-Diffusion-pt-BR-Definitivo/issues)
   <br />
