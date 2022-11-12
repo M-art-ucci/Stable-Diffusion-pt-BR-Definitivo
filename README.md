@@ -20,8 +20,8 @@
 <div align="center">
 
 - [x] Soluções para tela preta
+- [x] Passo a passo de instalação com imagens/gifs
 - [ ] Opções para quem tem de 4GB a 6GB de VRAM
-- [ ] Passo a passo de instalação com imagens/gifs
 - [ ] [Todos os problemas estão resolvidos](https://github.com/M-art-ucci/Stable-Diffusion-pt-BR-Definitivo/issues)
   <br />
   <br />
@@ -58,27 +58,65 @@
         <blockquote>
         Linux
         </blockquote></details>
-  <details closed><summary>Placas de vídeo</summary><blockquote>
-     <details><summary>Nvidia com mais de 6GB de VRAM</summary><blockquote>
-     Cada Placa
+  <details closed><summary>Placas de vídeo</summary>
+    <blockquote><details><summary>Nvidia com mais de 6GB de VRAM</summary>
+      <blockquote>
+      Cada Placa
+      </blockquote></details>
+  <details closed><summary>Nvidia com 4GB a 6GB de VRAM</summary>
+    <blockquote>
+    Cada Placa
+    </blockquote></details>
   </blockquote></details>
-     <details closed><summary>Nvidia com 4GB a 6GB de VRAM</summary><blockquote>
-     Cada Placa
-  </blockquote></details>
-  </blockquote></details>
-  <details closed><summary>Python 3.10.6</summary><blockquote>
-     <a href="https://www.python.org/ftp/python/3.10.6/python-3.10.6-amd64.exe">Instalador (64-bit)</a>
-  </blockquote></details>
- 
-  <details closed><summary>Conta Huggingface</summary><blockquote>
-     <a href="https://huggingface.co/">Huggingface.co</a> Não esqueça de confirmar o acesso ao termo no final da página!
+  <details closed><summary>Python 3.10.7</summary>
+    <blockquote>
+    <a href="https://www.python.org/ftp/python/3.10.6/python-3.10.6-amd64.exe">Instalador (64-bit)</a><sup>ainda não instalar</sup> 
+    </blockquote></details>
+  <details closed><summary>Git</summary>
+    <blockquote>
+    <a href="https://github.com/git-for-windows/git/releases/download/v2.38.1.windows.1/Git-2.38.1-64-bit.exe">Instalador (64-bit)</a><sup>ainda não instalar</sup>
+    </blockquote></details>
+  <details closed><summary>Dependências</summary>
+    <blockquote>
+    <a href="https://drive.google.com/file/d/1AYUYAQ8j5oeRLF1-grme_qMxt-qALeJ7/view">Google Drive Martucci</a>
+    <details closed><summary>Backups</summary>
      <blockquote>
-     <a href="https://huggingface.co/blog/stable_diffusion#license">Licença
+     <a href="https://drive.google.com/drive/folders/1nsKKMCb-OA2MqKDdjU4yAyI8GBWHWiFs">Drive do Aitrepreneur</a>
+     </blockquote>
+     <blockquote>
+     <a href="https://mega.nz/file/NtxyzR4S#omW4PFOPhkV74SXN8VCgbHb1dSv7VML3J49XYwbzj0k">Mega do Aitrepreneur</a>
+     </blockquote>
+     <blockquote>
+     <a href="https://gofile.io/d/Bzdkj3">Go file do Aitrepreneur</a>
+     </blockquote></summary></details>
+   </blockquote></details>
+   
+  <details closed><summary>Conta Huggingface</summary>
+    <blockquote>
+    <a href="https://huggingface.co/">Huggingface.co</a>
+    <blockquote>
+    <a href="https://huggingface.co/blog/stable_diffusion#license">Licença
   
   <blockquote>
   
   </blockquote></details>
- 
+  <details closed><summary>Baixar modelo .ckpt</summary>
+    <blockquote>
+    <a href="https://huggingface.co/runwayml/stable-diffusion-v1-5">Modelo 1.5</a>
+      <blockquote> Para gerar imagens baixar o "v1-5-pruned-emaonly.ckpt"
+      </blockquote>
+      <blockquote> Para treinamentos baixar o "v1-5-pruned.ckpt"
+      </blockquote>
+      <img src="/Assets/modelos%2015.PNG" width="400" height="150"/>
+      <blockquote>
+      <sup>Confirmar o acesso no final da página!</sup>
+      </blockquote>
+     </blockquote>
+      
+  <blockquote>
+  
+  </blockquote></details>
+      
   <details closed><summary>Conta Google</summary><blockquote>
     <a href="https://accounts.google.com/signup/">Criar conta Google</a>
     <blockquote>     
@@ -105,17 +143,22 @@ target="_blank"><img src="https://github.com/M-art-ucci/Stable-Diffusion-pt-BR-D
 alt="IMAGE ALT TEXT HERE" width="390" height="220" border="10" /></a>
 
 1. Instalação do Python 3.10.6 no Windows
-   - Adicionar ao Path
-   - Imagem - Adicionar ao Path
+   - Adicionar ao Path e marcar todas as opções
+   <img src="/Assets/inst-python.gif" width="400" height="250"/>
 2. Instalação do Git
+   - Clicar em Next, selecionar todas as opções, e em "choosing the default editor used by Git" selecionar "Use Notepad as Git's editor"
+   <img src="/Assets/inst-git2.gif" width="400" height="250"/>
 3. Baixar repositóriodo Stable Diffusion
-   - Por exemplo, rodando "git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui.git".
-4. Colocar o Modelo .ckpt no diretório de modelo
-   - Ver dependências para onde baixar.
+   - Digitar `cmd` na barra de endereço do caminho onde o Stable Diffusion será instalado.
+   - Digitar `git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui.git"`
+   - Esperar a criação da pasta `\stable diffusion webui`
+4. Colocar o Modelo `v1-5-pruned-emaonly.ckpt` no diretório de modelo
+   - `Seus-caminhos\Software\stable-diffusion-webui\models\Stable-diffusion`
 5. Opcional Colocar o GFPGANv1.4.pth no diretório base, junto do webui.py
-   - Ver dependências para onde baixar.
-6. Rodar o webui-user.bat normalmente
-   - como não-administrador, usuário.
+6. Rodar o webui-user.bat para instalar o restante dos arquivos
+7. Copiar o link gerado e abrir no navegador
+    
+   <img src="/Assets/link%20para%20interace.PNG" width="400" height="250"/>
 
 ---
    
