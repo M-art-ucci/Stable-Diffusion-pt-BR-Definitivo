@@ -22,6 +22,9 @@
 - [x] Soluções para tela preta
 - [x] Passo a passo de instalação com imagens/gifs
 - [ ] Opções para quem tem de 4GB a 6GB de VRAM
+- [ ] Instalação de extensões e localização em pt_BR
+- [ ] Como treinar seu próprio modelo localmente e online
+- [ ] Guia de uso da interface
 - [ ] [Todos os problemas estão resolvidos](https://github.com/M-art-ucci/Stable-Diffusion-pt-BR-Definitivo/issues)
   <br />
   <br />
