@@ -12,7 +12,7 @@
   <a href="[b27da3676739813c35aa2d6aac4bd6d1326a2a7b](https://github.com/M-art-ucci/Stable-Diffusion-pt-BR-Definitivo/commit/b27da3676739813c35aa2d6aac4bd6d1326a2a7b)](https://img.shields.io/badge/%C3%BAltima%20modifica%C3%A7%C3%A3o-12%2F11%2F2022-green"><img src="https://img.shields.io/badge/%C3%BAltima%20modifica%C3%A7%C3%A3o-12%2F11%2F2022-green">
 
 ### Com [Interface do AUTOMATIC1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-<div align="left"> Localização oficial <a href="https://github.com/M-art-ucci">M-art-ucci</a>
+<div align="left"> Localização oficial <a href="https://github.com/M-art-ucci/stable-diffusion-webui-localization-pt_BR">M-art-ucci</a>
 </div>
 
 ---
