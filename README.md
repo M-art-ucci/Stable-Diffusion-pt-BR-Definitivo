@@ -157,8 +157,10 @@ alt="IMAGE ALT TEXT HERE" width="390" height="220" border="10" /></a>
    
  Moderadores
   - M-art-ucci
-  - Outro 1
-  - Outro 2
+  - .BieÜ
+  - Comunista Trevoso
+  - Pedro H.
+  - Snow03
 
 ---
 
