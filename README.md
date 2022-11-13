@@ -12,16 +12,19 @@
   <a href="[b27da3676739813c35aa2d6aac4bd6d1326a2a7b](https://github.com/M-art-ucci/Stable-Diffusion-pt-BR-Definitivo/commit/b27da3676739813c35aa2d6aac4bd6d1326a2a7b)](https://img.shields.io/badge/%C3%BAltima%20modifica%C3%A7%C3%A3o-12%2F11%2F2022-green"><img src="https://img.shields.io/badge/%C3%BAltima%20modifica%C3%A7%C3%A3o-12%2F11%2F2022-green">
 
 ### Com [Interface do AUTOMATIC1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-<div align="left"> Localização oficial <a href="https://github.com/M-art-ucci/stable-diffusion-webui-localization-pt_BR">M-art-ucci</a>
+<div align="left"> Localização oficial <a href="https://github.com/M-art-ucci/stable-diffusion-webui-localization-pt_BR">:globe_with_meridians: M-art-ucci</a>
 </div>
 
+---
+### [Como usar Stable Difusion :blue_book:](https://youtu.be/u8YVvI_8qNU)  :white_small_square: [Como treinar seu próprio modelo :mage:](https://youtu.be/ECmOrm-C41w)  
 ---
 
 <div align="center">
 
 - [x] Soluções para tela preta
 - [x] Passo a passo de instalação com imagens/gifs
-- [ ] Opções para quem tem de 4GB a 6GB de VRAM
+- [x] Links para Dreambooth e Guia de uso
+- [x] Opções para quem tem de 4GB a 6GB de VRAM
 - [ ] Instalação de extensões e localização em pt_BR
 - [ ] Como treinar seu próprio modelo localmente e online
 - [ ] Guia de uso da interface
@@ -45,7 +48,7 @@
 
 </div>
 
-<div align="left"> Obs¹: este guia sempre estará mais atualizado que os vídeos
+<div align="left"> Obs¹: este guia sempre estará mais atualizado que os vídeos :cinema:
 </div>
 
 ---
@@ -195,7 +198,7 @@ alt="IMAGE ALT TEXT HERE" width="390" height="220" border="10" /></a>
   </blockquote></details>
   
   
-  <details><summary>Tela preta ao tentar gerar imagens mesmo após solução 1</summary>
+  <details><summary>Tela preta ao tentar gerar imagens mesmo após solução 1 ou quem tem 6GB ou menos de VRAM</summary>
   <blockquote>
   1. Se houver espaços entre os nomes de cada caminho, colocar "-" até onde está o webui-ser.bat
   <blockquote></blockquote>
